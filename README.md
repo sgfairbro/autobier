@@ -11,5 +11,5 @@ An AutoHotkey project for automating data entry at the Boston Indoor Erg Race
 For this script to work, it must be run as administrator. 
 
 # Hotkeys
-Ctrl-k start KayakPro
+Ctrl-k start KayakPro  
 Ctrl-e click Ergometer button
