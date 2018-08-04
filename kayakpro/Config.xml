@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <RecordFilePath>C:\Users\David\Desktop\BIER 2018 Results\</RecordFilePath>
+  <PaceBoat id="1">
+    <Name>robot dave</Name>
+    <Total>180</Total>
+    <Split1>45</Split1>
+    <Split2>45</Split2>
+    <Split3>45</Split3>
+    <Split4>45</Split4>
+  </PaceBoat>
+  <PaceBoat id="2">
+    <Name>Pace Boat 2</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="3">
+    <Name>Pace Boat 3</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="4">
+    <Name>Pace Boat 4</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="5">
+    <Name>Pace Boat 5</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="6">
+    <Name>Pace Boat 6</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="7">
+    <Name>Pace Boat 7</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="8">
+    <Name>Pace Boat 8</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="9">
+    <Name>Pace Boat 9</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+  <PaceBoat id="10">
+    <Name>Pace Boat 10</Name>
+    <Total>120</Total>
+    <Split1>30</Split1>
+    <Split2>30</Split2>
+    <Split3>30</Split3>
+    <Split4>30</Split4>
+  </PaceBoat>
+</Configuration>
